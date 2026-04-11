@@ -1,4 +1,4 @@
-
+#PROG5121 Part 1
 Part 1 Repository
 ChatApp Login System
 
@@ -31,10 +31,3 @@ Password: Validates that the password has a minimum length of 8 characters and c
 Phone Number: Ensures the phone number is in the South African format (+27 followed by 9 digits).
 Login: Checks if the provided username and password match the registered credentials.
 Unit Tests
-
-The LoginTest class includes JUnit tests for the following:
-
-Username Validation
-Password Complexity
-Phone Number Format
-Login Functionality (valid and invalid logins)
