@@ -16,27 +16,13 @@ Login:
 Verifies user credentials by matching the registered username and password.
 Setup
 
-Clone the repository:
-
-git clone https://github.com/yourusername/chatapp-login.git
-cd chatapp-login
-
 Compile and Run:
-
-You can use any Java IDE (e.g., IntelliJ IDEA, Eclipse) to compile and run the code, or use the following commands for command-line execution:
-javac Login.java
-java Login
 
 Run Unit Tests:
 
 The project includes unit tests to verify the functionality of the login system. To run the tests, ensure you have JUnit set up and use:
 # If using Maven
 mvn test
-
-# If using Gradle
-gradle test
-Code Overview
-Login Class
 
 Contains methods for registering and validating:
 
