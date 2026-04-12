@@ -30,4 +30,3 @@ Username: Checks if the username contains an underscore and is no more than 5 ch
 Password: Validates that the password has a minimum length of 8 characters and contains an uppercase letter, a number, and a special character.
 Phone Number: Ensures the phone number is in the South African format (+27 followed by 9 digits).
 Login: Checks if the provided username and password match the registered credentials.
-Unit Tests
