@@ -1,9 +1,9 @@
-# Student Information 
-Masonwabe Nqam 
-ST10513568 
-PROG5121 Part 1 
+# Student Information
+ Masonwabe Nqam
+ ST10513568
+ PROG5121 Part 1
 
-# Part 1 Repository
+# Part 1
 ChatApp Login System
 
 # Information 
