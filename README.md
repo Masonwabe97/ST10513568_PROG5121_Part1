@@ -1,7 +1,12 @@
-# PROG5121 Part 1
-Part 1 Repository
+# Student Information 
+Masonwabe Nqam
+ST10513568
+PROG5121 Part 1
+
+# Part 1 Repository
 ChatApp Login System
 
+# Information 
 A simple Java application to manage user login, including validation for username, password, and phone number.
 
 Features
